@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **raicubogdan15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
