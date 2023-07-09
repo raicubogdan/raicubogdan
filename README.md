@@ -7,6 +7,8 @@
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
 
+- My personal [website](https://6tpgds-3000.csb.app/) [work in progress]
+
 - 🚀 Currently exploring [Astro](https://astro.build/)
 
 - 🤖 AI Enthusiast
