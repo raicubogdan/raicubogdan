@@ -9,6 +9,8 @@
 
 - 🚀 Currently exploring [Astro](https://astro.build/)
 
+- 🤖 AI Enthusiast
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bogdan-raicu-45a393131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-raicu-45a393131" height="30" width="40" /></a>
