@@ -7,12 +7,16 @@
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
 
-- My personal [website](https://6tpgds-3000.csb.app/) [work in progress]
-
 - 🚀 Currently exploring [Astro](https://astro.build/)
 
 - 🤖 AI Enthusiast
 
+<h3 align="left">Pet Projects</h3>
+
+- [catsplash](https://hqszjm-5173.csb.app/) - like [unsplash](https://unsplash.com/), but with cats
+  
+- My personal [website](https://6tpgds-3000.csb.app/) [work in progress]
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bogdan-raicu-45a393131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-raicu-45a393131" height="30" width="40" /></a>
