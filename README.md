@@ -7,7 +7,7 @@
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
 
-- 🚀 Currently exploring [Astro](https://astro.build/)
+- 🚀 Currently exploring [Astro](https://astro.build/) and [Angular](https://angular.io/)
 
 - 🤖 AI Enthusiast
 
