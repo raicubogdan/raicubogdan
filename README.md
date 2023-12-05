@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bogdan. Currently pushing on Gitlab</h1>
-<h3 align="center">React / Typescript / Node / Tailwind / ChakraUI. Passionate about AI technology.</h3>
+<h3 align="center">React / Typescript / Node / Tailwind / ChakraUI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raicubogdan&label=Profile%20views&color=0e75b6&style=flat" alt="raicubogdan" /> </p>
 
 - 📫 Reach me at: **raicubogdan15@gmail.com**
 
 - 📄 [My experience](https://drive.google.com/file/d/1jcU1Uqq0C5Y882FtpTTvSl5lwK2LMAyI/view?usp=sharing)
-
-- 🚀 Currently exploring [Astro](https://astro.build/) and [Angular](https://angular.io/)
-
-- 🤖 AI Enthusiast
-
+  
 <h3 align="left">Pet Projects</h3>
 
 - [catsplash](https://hqszjm-5173.csb.app/) - like [unsplash](https://unsplash.com/), but with cats
