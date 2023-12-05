@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bogdan. Currently pushing Gitlab</h1>
+<h1 align="center">Hi 👋, I'm Bogdan. Currently pushing on Gitlab</h1>
 <h3 align="center">React / Typescript / Node / Tailwind / ChakraUI. Passionate about AI technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raicubogdan&label=Profile%20views&color=0e75b6&style=flat" alt="raicubogdan" /> </p>
