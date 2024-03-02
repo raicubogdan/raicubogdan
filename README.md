@@ -9,7 +9,7 @@
   
 <h3 align="left">Pet Projects</h3>
 
-- [catsplash](https://hqszjm-5173.csb.app/) - like [unsplash](https://unsplash.com/), but with cats
+- [catsplash](https://catsplash.vercel.app/) - like [unsplash](https://unsplash.com/), but with cats
   
 - My personal [website](https://6tpgds-3000.csb.app/) [work in progress]
   
