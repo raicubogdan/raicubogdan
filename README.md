@@ -11,7 +11,7 @@
 
 - [catsplash](https://catsplash.vercel.app/) - like [unsplash](https://unsplash.com/), but with cats
   
-- My personal [website](https://6tpgds-3000.csb.app/) [work in progress]
+- My personal [website](https://rb-personal-portfolio.vercel.app/) [work in progress]
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
