@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <a href="https://bogdanraicu.dev" target="_blank"><strong>bogdanraicu.dev</strong></a>
+  <a href="https://bogdanraicu.dev"><strong>bogdanraicu.dev</strong></a>
 </p>
 
 ---
