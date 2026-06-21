@@ -7,6 +7,13 @@
   <a href="https://bogdanraicu.dev"><strong>bogdanraicu.dev</strong></a>
 </p>
 
+<br />
+
+<p align="center">
+  currently pushing on my professional account
+</p>
+
+
 ---
 
 Software Developer with 6+ years of experience. I've worked mainly with React, Svelte, TypeScript and Node, tackling everything from complex UI work to full-stack features end-to-end.
